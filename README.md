@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/AeiqMDZ.png" alt="File Share Graphic"/>
 </p>
 
-<h1>Building Intuition with DNS</h1>
+<h1>File Integrity Manager Demo</h1>
 This demo explores integrity as found in the CIA Triad.<br />
 
 
